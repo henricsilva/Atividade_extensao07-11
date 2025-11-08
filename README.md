@@ -10,11 +10,10 @@ Aqui está um modelo de **README.md** conforme o formato solicitado:
 
 ## 👥 Integrantes
 
-* **Integrante Líder 1:** [Nome completo]
-* **Integrante 2:** [Nome completo]
-* **Integrante 3:** [Nome completo]
-* **Integrante 4:** [Nome completo]
-* **Integrante 5:** [Nome completo]
+* **Integrante Líder 1:** Henrique Chittolina Silva
+* **Integrante 2:** Lucas Crais
+* **Integrante 3:** Brendon Cesario
+* **Integrante 4:** Arthur Mistura
 
 ## 💻 Tecnologias Utilizadas
 
